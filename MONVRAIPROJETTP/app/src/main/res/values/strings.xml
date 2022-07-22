@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MON VRAI PROJET - TP</string>
+    <string name="connection">Connection</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
